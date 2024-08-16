@@ -1,0 +1,14 @@
+{
+    "name": "twosum/example",
+    "description": "A simple PHP project to solve the Two Sum problem.",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "TwoSum\\": "src/"
+        }
+    }
+}
+
