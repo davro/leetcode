@@ -23,14 +23,15 @@
 - [Description](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
 ## Leetcode-5 Longest Palindromic Substring
-- [Github](https://github.com/davro/leetcode/tree/main/solutions/4-longest-palindromic-substring)
+- [Github](https://github.com/davro/leetcode/tree/main/solutions/5-longest-palindromic-substring)
 - [Description](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
+## Leetcode-6 Zigzag Conversion
+- [Github](https://github.com/davro/leetcode/tree/main/solutions/6-zigzag-conversion)
+- [Description](https://leetcode.com/problems/zigzag-conversion/description/)
 
-## Leetcode-0 TEMPLATE
-- [Github]()
-- [Description]()
-- [Solution - PHP]()
+
+## Database
 
 ## Leetcode-131 Palindrome Partitioning
 - [Github](https://github.com/davro/leetcode/tree/main/solutions/131-palindrome-partitioning)
