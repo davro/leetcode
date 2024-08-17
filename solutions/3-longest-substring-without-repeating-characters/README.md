@@ -3,7 +3,7 @@
 Given a string s, find the length of the "longest substring" without repeating characters.
 
 - [Leetcode - Account](https://leetcode.com/u/chillierdavro/)
-- [Leetcode - Add Two Numbers](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+- [Leetcode - Description](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ### Submissions
 

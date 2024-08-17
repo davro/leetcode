@@ -6,7 +6,8 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.
 
-- [Leetcode - Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [Leetcode - Account](https://leetcode.com/u/chillierdavro/)
+- [Leetcode - Description](https://leetcode.com/problems/two-sum/description/)
 
 ### Submissions
 
